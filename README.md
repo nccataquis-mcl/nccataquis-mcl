@@ -1,9 +1,9 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
- :sparkle: Hi! I'm Nathaniel C. Cataquis or you can call me Nath.
- 🎓 Second-year Computer Science Student at Mapúa Malayan Colleges Laguna.
- 🎲 Inspiring Game Developer.
- 🎮 Gamer by blood.
+ - :sparkle: Hi! I'm Nathaniel C. Cataquis or you can call me Nath.
+ - 🎓 Second-year Computer Science Student at Mapúa Malayan Colleges Laguna.
+ - 🎲 Inspiring Game Developer.
+ - 🎮 Gamer by blood.
 
 ## ❗ Interests
 - 🕹️ Game Development
@@ -15,4 +15,4 @@
  
 ## 📫 Connect with Me
 [![Instagram](https://img.shields.io/badge/Follow-Me!-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/notnath.jpeg/)
-🐦 [Twitter](https://twitter.com/nthnlctqs)
+-🐦 [Twitter](https://img.shields.io/badge/Follow!-E4405F?style=for-the-badge&logo=twitter)(https://twitter.com/nthnlctqs)
