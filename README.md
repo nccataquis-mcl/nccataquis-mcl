@@ -6,7 +6,7 @@
 
  - :sparkles: Hi! I'm Nathaniel C. Cataquis or you can call me Nath.
  - 🎓 Second-year Computer Science Student at Mapúa Malayan Colleges Laguna.
- - 🎲 Inspiring Game Developer.
+ - 🎲 Aspiring Game Developer.
  - 🎮 Gamer by blood.
 
 ## ❗ Interests
