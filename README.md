@@ -14,5 +14,6 @@
 - I can play games for the whole day
  
 ## 📫 Connect with Me
-[![Instagram](https://img.shields.io/badge/Follow-Me!-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/notnath.jpeg/)
--🐦 [Twitter](https://img.shields.io/badge/Follow!-E4405F?style=for-the-badge&logo=twitter)(https://twitter.com/nthnlctqs)
+- 📷 [Instagram](https://www.instagram.com/notnath.jpeg/)
+- 🐦 [Twitter](https://twitter.com/nthnlctqs)
+- 📧 [Email](Candavanathan@gmail.com)
